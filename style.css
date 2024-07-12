@@ -81,3 +81,13 @@ button {
 .model-x {
     color: black;
 }
+
+.formulario {
+    position: fixed;
+    top: 40px;
+    width: 600px;
+    height: 100%;
+    z-index: 3;
+    left: -40%;
+    transition: 1.5s;
+}
